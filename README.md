@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Peter! I'm a second-year Computer Science student at UT Austin.
+I'm Peter! I'm a third-year Computer Science student at UT Austin.
 
 I'm super interested in front-end web development, especially using React.
 
